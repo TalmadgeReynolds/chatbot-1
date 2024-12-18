@@ -53,3 +53,4 @@ if uploaded_file:
 # Footer
 st.markdown("---")
 st.caption("Powered by Brigid V2 | Advanced Entity Analysis © 2024")
+
